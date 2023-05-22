@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: none;
+}
+::before,
+::after{
+    box-sizing: border-box;
+}
+
+
+/* header */
+body{
+    background-color: blueviolet;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.logo img{
+    height: 75px;
+}
+.heading .logo{
+
+}
+.header .nav-toggler{
+    height: 34px;
+    width: 44px;
+}
+.container{
+max-width:1170px;
+background-color: red;
+margin: auto;
+}
